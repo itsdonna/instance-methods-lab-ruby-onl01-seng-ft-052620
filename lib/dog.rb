@@ -3,8 +3,8 @@ class Dog
     puts "Woof!"
   end
   def sit
-  
-end
+    "The Dog is sitting"
+  end
 end
 
 fido = Dog.new
