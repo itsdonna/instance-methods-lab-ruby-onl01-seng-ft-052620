@@ -1,5 +1,4 @@
-def 
-
+def class Dog
 
 end
 
